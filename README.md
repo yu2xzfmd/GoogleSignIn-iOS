@@ -21,8 +21,8 @@ $ carthage update GoogleSignIn-iOS --platform ios
 
 # Version
 
- - XCode 8.3
- - iOS 9.3
+ - XCode 9.4.1
+ - iOS 11.4
  
  # Reference
  
